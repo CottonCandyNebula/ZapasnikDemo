@@ -5,7 +5,7 @@
 <img width="1287" height="437" alt="регистрация" src="https://github.com/user-attachments/assets/02a36e3b-806b-422f-9f27-78462d887bd6" />
 <img width="1287" height="377" alt="вход" src="https://github.com/user-attachments/assets/6de5e373-0974-470f-8f6e-70730a404830" />
 
-- Создание групп двух видов:
+- Создание групп двух видов: <br>
   а) публичных (для двух и более человек)
   <img width="1276" height="568" alt="создание публичной группы" src="https://github.com/user-attachments/assets/48873385-579e-4125-a079-2df96af1e973" />
   б) личных (только для пользователя)
